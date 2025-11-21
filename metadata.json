@@ -1,0 +1,5 @@
+{
+  "name": "健康醫療節目腳本生成器",
+  "description": "一個使用 Gemini API 的 AI 應用，可以根據指定的健康醫療主題，自動生成一個30分鐘的訪談節目腳本，並利用 Google 搜尋確保資訊的即時性與準確性。",
+  "requestFramePermissions": []
+}
